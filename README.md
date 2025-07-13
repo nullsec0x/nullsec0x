@@ -24,4 +24,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nullsec0x&icon=0&color=0)](https://visitcount.itsvg.in)
-![](https://github-readme-stats.hackclub.dev/api/wakatime?username=3596&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
